@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gumma/OneDrive/Desktop/AI%20STACK%20TRNG/MLOpsNOsqlProject/mlruns/0/2eb08e17a9f44e95b498d182a37d348c/artifacts
+end_time: 1753425422400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2eb08e17a9f44e95b498d182a37d348c
+run_name: loud-cod-488
+run_uuid: 2eb08e17a9f44e95b498d182a37d348c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753425420540
+status: 3
+tags: []
+user_id: gumma
